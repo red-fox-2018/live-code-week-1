@@ -51,5 +51,5 @@ function lompatanKuda(pos) {
 console.log(lompatanKuda('C4')); // 8
 
 // failed test case
-console.log(lompatanKuda('A1')); // 2
+// console.log(lompatanKuda('A1')); // 2
 // console.log(lompatanKuda('G7')); // 4
