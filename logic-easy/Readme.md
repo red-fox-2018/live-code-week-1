@@ -1,7 +1,7 @@
 DOMINO
 
 RedFox akan bermain kartu domino bersama temannya. Permasalahannya adalah RedFox masih awam/pemula dalam permainan ini. RedFox mendapatkan satu kesempatan untuk meminta saran kepada orang lain kartu mana yang harus dia dikeluarkan. Yuk bantu RedFox, syaratnya adalah
-kartu yang disarankan untuk keluar adalah kartu yang salah satu angkanya sama dengan salah satu angka pada kartu yang ada di "deck"/"meja"
+*kartu yang disarankan untuk keluar adalah kartu yang salah satu angkanya sama dengan salah satu angka pada kartu yang ada di "deck"/"meja"*
 jumlah kartu (index 0 + index 1) tersebut merupakan jumlah terbesar dari beberapa kartu yang memenuhi requirement pertama(jika ada)
 jika tidak terdapat kartu yang bisa dikeluarkan maka beri tahu RedFox untuk "tutup 1 kartu"
 
