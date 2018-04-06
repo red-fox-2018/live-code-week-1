@@ -61,7 +61,7 @@ function lompatanKuda(posisi){
       if(i == idxKuda[0] && j ==  idxKuda[1]){
         let cekAtas = checkAtas(board, idxCol, idxRow)
         if(cekAtas){
-          //kanan
+          
           if(board[i - 2][j+1] === ' '){
             count++
           }
@@ -69,10 +69,9 @@ function lompatanKuda(posisi){
             count++
           }
         }
-        //======
+
         let cekBawah = checkBawah(board, idxCol, idxRow)
         if(cekBawah){
-          //kanan
           if(board[i + 2][j+1] === ' '){
             count++
           }
@@ -80,10 +79,10 @@ function lompatanKuda(posisi){
             count++
           }
         }
-        //==
+
         let cekKanan = checkKanan(board, idxCol, idxRow)
         if(cekKanan){
-          //kanan
+
           if(board[i-1][j+2] === ' '){
             count++
           }
@@ -91,7 +90,7 @@ function lompatanKuda(posisi){
             count++
           }
         }
-        //======
+
         let cekKiri = checkKiri(board, idxCol, idxRow)
         if(cekKiri){
           //kanan
