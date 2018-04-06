@@ -9,6 +9,6 @@ contoh seperti di gambar bidak kuda sedang berada di posisi E4 maka output yang 
 
 ```javascript
 console.log(lompatanKuda('A1')) // 2
-console.log(lompatanKuda('G7')) // 4
-console.log(lompatanKuda('C4')) // 8
+// console.log(lompatanKuda('G7')) // 4
+// console.log(lompatanKuda('C4')) // 8
 ```
