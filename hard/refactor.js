@@ -34,7 +34,6 @@ function lompatanKuda(str){
 }
 
 console.log(lompatanKuda('A1')) // 2
-console.log(lompatanKuda('D2')) // 2
 console.log(lompatanKuda('G7')) // 4
 console.log(lompatanKuda('C4')) // 8
 console.log(lompatanKuda('E4')) // 8
